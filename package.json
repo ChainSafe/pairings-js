@@ -1,0 +1,25 @@
+{
+  "name": "pairings",
+  "version": "1.0.0",
+  "description": "Elliptic Curve Pairings in Pure Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChainSafeSystems/pairings-js.git"
+  },
+  "keywords": [
+    "\"elliptic",
+    "curves\"",
+    "\"cryptography\"",
+    "\"pairings\""
+  ],
+  "author": "Mikerah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChainSafeSystems/pairings-js/issues"
+  },
+  "homepage": "https://github.com/ChainSafeSystems/pairings-js#readme"
+}
